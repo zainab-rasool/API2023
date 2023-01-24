@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="Test">
+    <classes>
+      <class name="org.testing.TestCases.TC1_PostRequest"/>
+      <class name="org.testing.TestCases.TC2_GetAllRequest"/>
+      <class name="org.testing.TestCases.TC3GetParticularRecord"/>
+      <class name="org.testing.TestCases.TC4_PutRequest"/>
+      <class name="org.testing.TestCases.TC5_DeleteRequest"/>
+      <class name="org.testing.TestCases.TC6_PostRequest2"/>
+      <class name="org.testing.TestCases.TC7_GetAllRequest"/>
+      <class name="org.testing.TestCases.TC8_GetParticularRecord"/>
+      <class name="org.testing.TestCases.TC9_PutRequest2"/>
+      <class name="org.testing.TestCases.TC10_DeleteRequest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Failed suite [Suite] -->

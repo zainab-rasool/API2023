@@ -1,0 +1,15 @@
+{
+	"employee_name": "{{employee_name}}",
+	"employee_salary": 2900,
+	"employee_age": 24,
+	"employyee_address": [{
+		"Type": "Primary address",
+		"House_no": 120,
+		"Sector": "23",
+		"Landmark": "Cherrycounty"
+	}, {
+		"Type": "Secondary address",
+		"House_no": 120,
+		"Landmark": "Cherrycounty"
+	}]
+}
